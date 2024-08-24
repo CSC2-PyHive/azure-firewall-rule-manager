@@ -77,41 +77,6 @@ The **Azure Firewall Rule Manager** is a Python application designed to help man
 
 3. Check the output in the terminal to see the list of firewall rules.
 
-## How to Contribute
-
-1. **Fork the Repository**:
-   - Click the "Fork" button on the top-right corner of the repository page on GitHub to create your own copy of the repository.
-
-2. **Clone Your Fork**:
-    ```bash
-    git clone https://github.com/your-username/azure-firewall-rule-manager.git
-    ```
-   Replace `your-username` with your GitHub username.
-
-3. **Create a Branch**:
-    ```bash
-    git checkout -b feature/your-feature
-    ```
-
-4. **Make Your Changes**:
-   - Implement your changes or new features in your branch.
-
-5. **Commit Your Changes**:
-    ```bash
-    git add .
-    git commit -m "Add a brief description of your changes"
-    ```
-
-6. **Push Your Changes**:
-    ```bash
-    git push origin feature/your-feature
-    ```
-
-7. **Create a Pull Request**:
-   - Go to the original repository on GitHub and click on "Pull Requests".
-   - Click "New Pull Request" and select your branch.
-   - Provide a detailed description of your changes and submit the pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
